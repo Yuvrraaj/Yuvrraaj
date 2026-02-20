@@ -67,7 +67,7 @@ I enjoy turning **research problems into scalable engineering systems**.
 
 📧 yuvrajjha1718@gmail.com  
 💼 linkedin.com/in/yuvrajjha17  
-🌐 yuvraj.github.io  
+🌐 https://yuvraj-jha-portfolio.vercel.app/  
 💻 leetcode.com/u/itsyuvrajjha17/
 
 ---
