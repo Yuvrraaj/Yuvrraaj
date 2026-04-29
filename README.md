@@ -12,10 +12,10 @@ Tata Imagination Challenge National Semi-Finalist (2024, 2025) among 300,000+ pa
 
 | | |
 |---|---|
-| **Geospatial AI** | Satellite imagery → real-world insight |
 | **Computer Vision** | Detection, segmentation, OCR pipelines |
 | **ML Research** | Training, pruning, applied experiments |
 | **Backend Systems** | Distributed, concurrent, deployed |
+| **Geospatial AI** | Satellite imagery → real-world insight |
 
 ---
 
